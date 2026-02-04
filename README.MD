@@ -32,5 +32,13 @@ Bot can reply automatically with friendly persona.
 Chat bot on Telegram and send message:
 halo
 
+## Screenshots
+
+### Bot Running in Terminal
+![Bot Running](screenshots/bot-running.png)
+
+### Chat Demo
+![Chat Demo](screenshots/bot-chat.png)
+
 ## Author
 Boying Panjaitan
